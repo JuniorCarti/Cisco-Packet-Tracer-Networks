@@ -33,10 +33,5 @@ The network is structured as follows:
 - Configure **Routing (Static or Dynamic)** for network segmentation.
 - Enable **DHCP, DNS, or Web Services** on the server.
 
-## 👨‍💻 Author
-**Ridge Junior Abuto**  
-- Software Developer | Network Engineer  
-- GitHub: [JuniorCarti](https://github.com/JuniorCarti)
-
 ## 📜 License
 This project is open-source. Feel free to modify and improve it.
